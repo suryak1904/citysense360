@@ -1,0 +1,34 @@
+# Core
+numpy
+pandas
+scikit-learn
+joblib
+
+# Deep Learning
+tensorflow
+torch
+torchvision
+
+# Computer Vision
+opencv-python
+ultralytics
+Pillow
+
+# NLP & Embeddings
+sentence-transformers
+langchain
+faiss-cpu
+
+# Generative AI (Urban Planning)
+diffusers
+transformers
+accelerate
+
+# API / HTTP
+requests
+
+# UI
+streamlit
+
+# Utilities
+tqdm
