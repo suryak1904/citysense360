@@ -247,7 +247,8 @@ http://localhost:8501
 * TensorFlow warnings (oneDNN, deprecated APIs) are **expected and harmless**
 * Ollama runs as a **local service**, not a Python dependency
 * This project emphasizes **architecture and integration**, not production deployment
-
+Excluded Items:
+Trained deep learning models (.h5, .pth, .pkl)
 ---
 <img width="1903" height="920" alt="image" src="https://github.com/user-attachments/assets/58a9078a-e4fc-431e-a4e7-22d7461d185b" />
 
